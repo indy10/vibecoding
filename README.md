@@ -62,7 +62,7 @@
     </td>
     <td align="center" width="33%">
       <img src="책표지/4쇄.jpg" alt="4쇄 표지" width="180">
-      <br><strong>📘 4쇄</strong>
+      <br><strong>📘 4쇄~</strong>
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@
 </details>
 
 <details>
-<summary><b>📘 4쇄 독자 안내</b></summary>
+<summary><b>📘 4쇄 이후 독자 안내</b></summary>
 
 <table><tr><td>
 
