@@ -776,14 +776,14 @@ claude mcp add --transport http notion https://mcp.notion.com/mcp
 
 **Sequential Thinking MCP:**
 
-Windows 명령 프롬프트(cmd)에서 실행하는 경우:
-```cmd
-claude mcp add sequential-thinking -s local -- cmd /c npx -y @modelcontextprotocol/server-sequential-thinking@latest
-```
-
-Windows PowerShell에서 실행하는 경우:
+Windows **PowerShell**에서 실행하는 경우:
 ```powershell
 claude mcp add sequential-thinking -s local -- npx @modelcontextprotocol/server-sequential-thinking@latest
+```
+
+(참조) Windows 명령 프롬프트(cmd)에서 실행하는 경우:
+```cmd
+claude mcp add sequential-thinking -s local -- cmd /c npx -y @modelcontextprotocol/server-sequential-thinking@latest
 ```
 
 ```
@@ -800,14 +800,14 @@ claude mcp add --transport http context7 https://mcp.context7.com/mcp --header "
 
 **Playwright MCP:**
 
-Windows 명령 프롬프트(cmd)에서 실행하는 경우:
-```cmd
-claude mcp add playwright -- cmd /c npx @playwright/mcp@latest
-```
-
-Windows PowerShell에서 실행하는 경우:
+Windows **PowerShell**에서 실행하는 경우:
 ```powershell
 claude mcp add playwright -- npx @playwright/mcp@latest
+```
+
+(참조) Windows 명령 프롬프트(cmd)에서 실행하는 경우:
+```cmd
+claude mcp add playwright -- cmd /c npx @playwright/mcp@latest
 ```
 
 ```
@@ -834,14 +834,14 @@ claude mcp add --transport http github https://api.githubcopilot.com/mcp -H 'Aut
 
 **Supabase MCP:**
 
-Windows 명령 프롬프트(cmd)에서 실행하는 경우:
-```cmd
-claude mcp add supabase -s local -e SUPABASE_ACCESS_TOKEN=<Supabase API 토큰> -- cmd /c npx -y @supabase/mcp-server-supabase@latest
-```
-
-Windows PowerShell에서 실행하는 경우:
+Windows **PowerShell**에서 실행하는 경우:
 ```powershell
 claude mcp add --transport http supabase "https://mcp.supabase.com/mcp"
+```
+
+(참조) Windows 명령 프롬프트(cmd)에서 실행하는 경우:
+```cmd
+claude mcp add supabase -s local -e SUPABASE_ACCESS_TOKEN=<Supabase API 토큰> -- cmd /c npx -y @supabase/mcp-server-supabase@latest
 ```
 
 ```
