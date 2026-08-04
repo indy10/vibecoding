@@ -80,7 +80,7 @@
 - 클로드 아티팩트 정책 변경으로 날씨/뉴스 대신 [대체 프롬프트](1장-예제-안내.md) 사용
 
 **7장 서브에이전트 만들기 (새 방식)**
-- 클로드 코드 2.1.198+에서 `/agents` 명령어가 사라지고 자연어로 에이전트를 생성합니다. [7장 보완자료 PDF](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
+- 클로드 코드 2.1.198부터 `/agents` 명령어가 사라지고 자연어로 에이전트를 생성합니다. [7장 보완자료 PDF](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
 
 **책에 이어서 배우기**
 - 01 [플러그인(Plugin) 활용해서 디자인 수정하기](이어서-배우기-01/)
@@ -100,7 +100,7 @@
 - 클로드 아티팩트 정책 변경으로 날씨/뉴스 대신 [대체 프롬프트](1장-예제-안내.md) 사용
 
 **7장 서브에이전트 만들기 (새 방식)**
-- 클로드 코드 2.1.198+에서 `/agents` 명령어가 사라지고 자연어로 에이전트를 생성합니다. [7장 보완자료 PDF](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
+- 클로드 코드 2.1.198부터 `/agents` 명령어가 사라지고 자연어로 에이전트를 생성합니다. [7장 보완자료 PDF](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
 
 </td></tr></table>
 
@@ -112,7 +112,7 @@
 <table><tr><td>
 
 **7장 서브에이전트 만들기 (새 방식)**
-- 클로드 코드 2.1.198+에서 `/agents` 명령어가 사라지고 자연어로 에이전트를 생성합니다. [7장 보완자료 PDF](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
+- 클로드 코드 2.1.198부터 `/agents` 명령어가 사라지고 자연어로 에이전트를 생성합니다. [7장 보완자료 PDF](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
 
 그 밖에는 별도 안내 사항이 없습니다. 책 본문대로 학습하시면 됩니다.
 
