@@ -70,52 +70,36 @@
 <details>
 <summary><b>📕 1·2쇄 독자 안내</b></summary>
 
-<table><tr><td>
+&nbsp;
 
-**업데이트된 설치 가이드**
-- [윈도우 설치 가이드 (업데이트)](https://raw.githubusercontent.com/taehojo/vibecoding/master/설치가이드/3장_윈도우_설치가이드.pdf)
-- [macOS/리눅스 설치 가이드 (업데이트)](https://raw.githubusercontent.com/taehojo/vibecoding/master/설치가이드/3장_맥OS리눅스_설치가이드.pdf)
-
-**1장 예제 안내**
-- 클로드 아티팩트 정책 변경으로 날씨/뉴스 대신 [대체 프롬프트](1장-예제-안내.md) 사용
-
-**7장 새로운 에이전트 만드는 법 (2.1.198부터 적용)**
-- [보완자료 PDF 보기](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
-
-**책에 이어서 배우기**
-- 01 [플러그인(Plugin) 활용해서 디자인 수정하기](이어서-배우기-01/)
-- 02 [마켓플레이스(Marketplaces)로 플러그인 설치하고 나만의 스킬 만들기](이어서-배우기-02/)
-- 03 [스킬(Skill)로 업그레이드하는 바이브코딩](이어서-배우기-03/)
-
-</td></tr></table>
+- [윈도우 설치 가이드](https://raw.githubusercontent.com/taehojo/vibecoding/master/설치가이드/3장_윈도우_설치가이드.pdf) &nbsp;<sub>업데이트</sub>
+- [macOS · 리눅스 설치 가이드](https://raw.githubusercontent.com/taehojo/vibecoding/master/설치가이드/3장_맥OS리눅스_설치가이드.pdf) &nbsp;<sub>업데이트</sub>
+- [1장 예제 대체 프롬프트](1장-예제-안내.md) &nbsp;<sub>아티팩트 정책 변경</sub>
+- [7장 새로운 에이전트 만드는 법](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf) &nbsp;<sub>2.1.198부터 적용</sub>
+- [이어서 배우기 01 · 플러그인으로 디자인 수정하기](이어서-배우기-01/)
+- [이어서 배우기 02 · 마켓플레이스로 플러그인 설치하고 스킬 만들기](이어서-배우기-02/)
+- [이어서 배우기 03 · 스킬로 업그레이드하는 바이브코딩](이어서-배우기-03/)
 
 </details>
 
 <details>
 <summary><b>📗 3쇄 독자 안내</b></summary>
 
-<table><tr><td>
+&nbsp;
 
-**1장 예제 안내**
-- 클로드 아티팩트 정책 변경으로 날씨/뉴스 대신 [대체 프롬프트](1장-예제-안내.md) 사용
-
-**7장 새로운 에이전트 만드는 법 (2.1.198부터 적용)**
-- [보완자료 PDF 보기](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf)
-
-</td></tr></table>
+- [1장 예제 대체 프롬프트](1장-예제-안내.md) &nbsp;<sub>아티팩트 정책 변경</sub>
+- [7장 새로운 에이전트 만드는 법](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf) &nbsp;<sub>2.1.198부터 적용</sub>
 
 </details>
 
 <details>
 <summary><b>📘 4쇄 이후 독자 안내</b></summary>
 
-<table><tr><td>
+&nbsp;
 
-📄 [**7장 새로운 에이전트 만드는 법**](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf) &nbsp;<sub>클로드 코드 2.1.198부터 적용</sub>
+- [7장 새로운 에이전트 만드는 법](https://raw.githubusercontent.com/taehojo/vibecoding/master/7장-서브에이전트-보완자료.pdf) &nbsp;<sub>2.1.198부터 적용</sub>
 
 그 밖에는 별도 안내 사항이 없습니다. 책 본문대로 학습하시면 됩니다.
-
-</td></tr></table>
 
 </details>
 
