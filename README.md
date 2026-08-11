@@ -106,7 +106,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>📘 4쇄 이후 독자 안내</b></summary>
 
 <table><tr><td>
