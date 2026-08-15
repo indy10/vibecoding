@@ -101,6 +101,8 @@
 
 ▶️ **[유튜브 강의 전체 재생목록](https://www.youtube.com/playlist?list=PLwVlmsyd5oN5zmup3eAuCbKlu9TRXImA6)** - 책과 함께 보는 무료 강의
 
+🧩 **[그래프 엔지니어링으로 AI 상담원 만들기](그래프-엔지니어링/)** - 7장을 마친 분들을 위한 보충 자료 ([완성본 실행해 보기](https://www.jolab.ai/claude-graph/))
+
 📝 **[전체 프롬프트 모음 보기](PROMPTS.md)** - 교재의 안내에 따라 프롬프트를 사용하세요.
 
 📋 **[정오표 보기](https://raw.githubusercontent.com/taehojo/vibecoding/master/정오표-20260405.pdf)**
