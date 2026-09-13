@@ -129,7 +129,12 @@ npm install -g @anthropic-ai/claude-code
 ```
 
 ```
-손글씨 인식 프로그램을 웹 버전과 데스크톱 버전으로 나누어 개발하고 싶어. web_version과 desktop_version 폴더를 만들고, 각 폴더에 해당하는 CLAUDE.md 파일도 생성해 줘.
+손글씨 인식 프로그램을 웹 버전과 데스크톱 버전으로 나누어 개발하고 싶어.
+web_version과 desktop_version 폴더를 만들고, 각 폴더에 해당하는 CLAUDE.md 파일도 생성해 줘.
+```
+
+```
+Web 버전을 실행해서 브라우저에게 확인하게 해줘.
 ```
 
 ---
